@@ -7,9 +7,9 @@ using System.Windows.Forms;
 
 namespace Form1Ödev.cs
 {
-    public partial class Form1 : Form
+    public partial class İdealKiloHesabı : Form
     {
-        public Form1()
+        public İdealKiloHesabı()
         {
             InitializeComponent();
         }

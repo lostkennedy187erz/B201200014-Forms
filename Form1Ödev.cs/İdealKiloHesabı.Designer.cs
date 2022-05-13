@@ -1,7 +1,7 @@
 ﻿
 namespace Form1Ödev.cs
 {
-    partial class Form1
+    partial class İdealKiloHesabı
     {
         /// <summary>
         ///Gerekli tasarımcı değişkeni.
