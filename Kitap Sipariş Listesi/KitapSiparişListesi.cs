@@ -1,7 +1,6 @@
 ﻿//İBRAHİM ÇELEN
 //B201200014
 //BİLİŞİM SİSTEMLERİ MÜHENDİSLİĞİ
-
 using System;
 using System.Windows.Forms;
 
